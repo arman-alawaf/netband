@@ -826,7 +826,7 @@ input.main-search-input::placeholder {
   }
 }
 .header-top-section {
-  background-color: var(--bg4);
+  background-color: rgb(52, 59, 100);
   padding: 10px 0;
   position: relative;
   z-index: 9;
