@@ -18,6 +18,7 @@ Version: 1.0.0
   
   --theme2: #3399FF;
   --header: #171422;
+
   --base: #166FD3;
   --text: #5E5F63;
   --text2: #8A8C94;
@@ -75,7 +76,7 @@ Version: 1.0.0
   width: 50%;
   height: 0;
   content: "";
-  background-color: var(--header);
+  background-color: var(--theme2);
   transition: all 0.4s ease-in-out;
   border-radius: 0 7px 7px 0;
   z-index: 1;
@@ -87,7 +88,7 @@ Version: 1.0.0
   width: 50%;
   height: 0;
   content: "";
-  background-color: var(--header);
+  background-color: var(--theme2);
   transition: all 0.4s ease-in-out;
   border-radius: 7px 0 0 7px;
   z-index: 1;
